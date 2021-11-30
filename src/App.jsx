@@ -288,7 +288,7 @@ const App = () => {
           <p className="sub-text">
             View your GIF collection in the metaverse ✨
           </p>
-          <p>** Like Feature ran into Issues(to be specific buffer issues) will be working on it slowly**</p>
+          <p>** Like Feature ran into Issues(to be specific buffer issues) will be working on it slowly **</p>
           <p className="sub-text">
             <a
             className="footer-text"
